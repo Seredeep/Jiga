@@ -1,0 +1,7 @@
+{
+  "name": "JigaNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
